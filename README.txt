@@ -1,4 +1,4 @@
-all the assignments for the git and github are given here
+all the assignments for the git and github are given here for cssasssg too
 <<<<<<< HEAD
 this is for main branch along with css
 =======
