@@ -1,6 +1,6 @@
 all the assignments for the git and github are given here for cssasssg too
 <<<<<<< HEAD
-this is for main branch along with css
+this is for main branch along with css and js
 =======
 
 >>>>>>> html-assignments
